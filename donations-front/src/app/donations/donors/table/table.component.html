@@ -1,0 +1,17 @@
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Year</th>
+            <th>Value</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr *ngFor="let donor of donors" [routerLink]="['/details/', donor?._id]"
+        routerLinkActive="router-link-active">
+            <td>{{donor?.name}}</td>
+            <td>{{donor?.charity_date | date: 'yyyy'}}</td>
+            <td>{{donor?.estimated_value}}</td>
+        </tr>
+    </tbody>
+</table>

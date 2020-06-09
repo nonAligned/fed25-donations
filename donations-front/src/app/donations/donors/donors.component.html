@@ -1,0 +1,9 @@
+<div class="row">
+    <div class="col-6">
+        <sco-pagination (pageChanged)="setPage($event)" [listSize]="donorList?.count" [pageSize]="parameters.pageSize"></sco-pagination>
+        <sco-search [categories]="categories" (searchChanged)="updateSearch($event)"></sco-search>
+    </div>
+    <div class="col-6">
+        <sco-table [donors]="donorList?.donors"></sco-table>
+    </div>
+</div>

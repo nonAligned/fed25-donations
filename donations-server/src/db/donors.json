@@ -1,0 +1,162 @@
+[
+				{
+					"_id": 1,
+					"name": "Company X",
+					"description": "Donation of 1.000 EUR for children with disabilities",
+					"charity_date": "2018-06-21T00:00:00.000Z",
+					"categories": ["donation", "services"],
+					"estimated_value": 1000
+				},
+				{
+					"_id": 2,
+					"name": "Pera Peric",
+					"description": "New beds for the hospitals in Novi Sad",
+					"charity_date": "2015-03-17T00:00:00.000Z",
+					"categories": ["goods"],
+					"estimated_value": 10000
+				},
+				{
+					"_id": 3,
+					"name": "Mika Mikic",
+					"description": "Worked for new years charity project",
+					"charity_date": "2019-09-17T00:00:00.000Z",
+					"categories": ["services"],
+					"estimated_value": 500
+				},
+				{
+					"_id": 4,
+					"name": "Company Zergling", 
+					"description": "Provided people for the green Novi Sad charity action and provided needed tools for the action", 
+					"charity_date": "2017-09-02T00:00:00.000Z",
+					"categories": ["goods", "services"],
+					"estimated_value": 3000
+				},
+				{
+					"_id": 5,
+					"name": "Anonymous", 
+					"description": "Provided logistics support, people, tools and other materials for a charity concert to fight alcheimer as well as the donation", 
+					"charity_date": "2017-09-02T00:00:00.000Z",
+					"categories": ["goods", "services", "donation"],
+					"estimated_value": 50000
+				},
+				{
+					"_id": 6,
+					"name": "Misa Mikic", 
+					"description": "Donated for lung cancer research", 
+					"charity_date": "2017-09-02T00:00:00.000Z",
+					"categories": ["donation"],
+					"estimated_value": 10
+				},
+				{
+					"_id": 7,
+					"name": "An IT company", 
+					"description": "They developed this platform", 
+					"charity_date": "2018-05-07T00:00:00.000Z",
+					"categories": ["services"],
+					"estimated_value": 50000
+				},
+				{
+					"_id": 8,
+					"name": "Matija Matijevic", 
+					"description": "Donation for the homeless people", 
+					"charity_date": "2018-08-01T00:00:00.000Z",
+					"categories": ["donation"],
+					"estimated_value": 5
+				},
+				{
+					"_id": 9,
+					"name": "Stevan Stevanovic", 
+					"description": "Donated for hungry and worked in a charity action feed the poor", 
+					"charity_date": "2019-04-01T00:00:00.000Z",
+					"categories": ["donation", "services"],
+					"estimated_value": 200
+				},
+				{
+					"_id": 10,
+					"name": "Casino Royale Vojvodina",
+					"description": "Charity action: whoever wins this weekend, the ones who need it the most win also!",
+					"charity_date": "2019-08-01T00:00:00.000Z",
+					"categories": ["donation", "services"],
+					"estimated_value": 40000
+				},
+				{
+					"_id": 11,
+					"name": "Novi Sad Taekwondo Club",
+					"description": "Workshop on self-defense",
+					"charity_date": "2019-05-25T00:00:00.000Z",
+					"categories": ["services"],
+					"estimated_value": 500
+				},
+				{
+					"_id": 12,
+					"name": "Basketball Club Neverland",
+					"description": "Donation for each scored basket in a month",
+					"charity_date": "2019-06-20T00:00:00.000Z",
+					"categories": ["donation"],
+					"estimated_value": 10000
+				},
+				{
+					"_id": 13,
+					"name": "Pekara Zelda",
+					"description": "Free bread for the poor",
+					"charity_date": "2019-06-20T00:00:00.000Z",
+					"categories": ["goods", "services"],
+					"estimated_value": 300
+				},
+				{
+					"_id": 14,
+					"name": "Mario Luigi",
+					"description": "Fixing the pipes and installation for old homes in charity action: repair the homes",
+					"charity_date": "2019-03-15T00:00:00.000Z",
+					"categories": ["goods", "services"],
+					"estimated_value": 800
+				},
+				{
+					"_id": 15,
+					"name": "Haircut Britza Novi Sad",
+					"description": "All day charity haircut for everyone - the money goes for the sick in need",
+					"charity_date": "2017-05-09T00:00:00.000Z",
+					"categories": ["donation", "services"],
+					"estimated_value": 1500
+				},
+				{
+					"_id": 16,
+					"name": "Grad Novi Sad",
+					"description": "Kuke dobrote",
+					"charity_date": "2017-03-05T00:00:00.000Z",
+					"categories": ["goods", "services"],
+					"estimated_value": 200
+				},
+				{
+					"_id": 17,
+					"name": "Pillows Momo Kapor",
+					"description": "The pillows for the homeless",
+					"charity_date": "2019-06-20T00:00:00.000Z",
+					"categories": ["goods"],
+					"estimated_value": 1000
+				},
+				{
+					"_id": 18,
+					"name": "Mike Mikelsky",
+					"description": "Music festival for charity",
+					"charity_date": "2019-02-02T00:00:00.000Z",
+					"categories": ["donation", "services"],
+					"estimated_value": 20000
+				},
+				{
+					"_id": 19,
+					"name": "Nick Sloter",
+					"description": "Blood cancer research",
+					"charity_date": "2018-07-17T00:00:00.000Z",
+					"categories": ["donation"],
+					"estimated_value": 323
+				},
+				{
+					"_id": 20,
+					"name": "Charles Darwin",
+					"description": "Gene disorder desease research",
+					"charity_date": "2018-02-20T00:00:00.000Z",
+					"categories": ["donation", "services"],
+					"estimated_value": 273
+				}
+]
